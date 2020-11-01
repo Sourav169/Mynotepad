@@ -1,0 +1,15 @@
+{
+  "main.css": "/Mynotepad/static/css/main.bbd45767.chunk.css",
+  "main.js": "/Mynotepad/static/js/main.00673ddf.chunk.js",
+  "main.js.map": "/Mynotepad/static/js/main.00673ddf.chunk.js.map",
+  "runtime~main.js": "/Mynotepad/static/js/runtime~main.426aecc4.js",
+  "runtime~main.js.map": "/Mynotepad/static/js/runtime~main.426aecc4.js.map",
+  "static/css/2.93afc894.chunk.css": "/Mynotepad/static/css/2.93afc894.chunk.css",
+  "static/js/2.31606dac.chunk.js": "/Mynotepad/static/js/2.31606dac.chunk.js",
+  "static/js/2.31606dac.chunk.js.map": "/Mynotepad/static/js/2.31606dac.chunk.js.map",
+  "index.html": "/Mynotepad/index.html",
+  "precache-manifest.fcaf093ecc0a2ca223f8a5b6a110458c.js": "/Mynotepad/precache-manifest.fcaf093ecc0a2ca223f8a5b6a110458c.js",
+  "service-worker.js": "/Mynotepad/service-worker.js",
+  "static/css/2.93afc894.chunk.css.map": "/Mynotepad/static/css/2.93afc894.chunk.css.map",
+  "static/css/main.bbd45767.chunk.css.map": "/Mynotepad/static/css/main.bbd45767.chunk.css.map"
+}
